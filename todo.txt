@@ -1,0 +1,21 @@
+Links
+- recursive functions
+- lambda calculus
+- halting problem
+
+Pictures
+- Tape
+- State machine and transitions
+- Other TM stuff?
+
+Footnotes
+- Decision problems: what about questions with numerical answers?
+- TM 7-tuple: Q must be three elements
+- Everything that can be computed: we think
+- Universality: more formal definition that isn't "it can run itself"
+
+Other
+- Do we include Gamma or not? Might be a good footnote.
+- Explain the title at least a little in the intro
+- Background section as a separate page or pages?
+- Univrsality: if you've seen Minecraft in Minecraft or Life in Life, this is the same thing.
